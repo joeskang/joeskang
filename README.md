@@ -1,5 +1,5 @@
 ### Hi there 👋
-Please visit my webpage to learn more about me: https://joeskang.com
+https://joeskang.com
 
 <!--
 **joeskang/joeskang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
